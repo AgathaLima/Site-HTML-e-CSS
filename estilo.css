@@ -1,0 +1,50 @@
+body {
+    background-image: url("imagens/fundo.png");
+   
+}
+
+h2{
+    color: rgb(156, 128, 118);
+}
+
+a:link {
+    color: rgb(49, 49, 68);
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(49, 49, 68)
+    
+}
+.cabecalho{
+    
+    padding-top: 10px;
+    padding-left: 50px;
+    width: 850px;
+    height: 30px;
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(49, 49, 68);
+}
+
+#corpo {
+    padding-top: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 2px;
+    width: 890px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+.rodape{
+    padding-left: 450px;
+    padding-top: 10px;
+    width: 900px;  
+    
+}
+
+.borda{
+    border: 5px solid gray;
+}
+
